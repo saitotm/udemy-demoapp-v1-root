@@ -1,0 +1,6 @@
+[submodule "api"]
+	path = api
+	url = https://github.com/saitotm/udemy-demoapp-v1-api
+[submodule "front"]
+	path = front
+	url = https://github.com/saitotm/udemy-demoapp-v1-front
